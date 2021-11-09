@@ -18,6 +18,8 @@
 - 支付宝/微信 [二维码](https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png)
 - 贝宝 [Paypal](https://www.paypal.com/paypalme/willinwang)
 
+后续，我们还会提供一些其他的域名和其他的公益性质的服务，如 `log.lu` (不走老路)。
+
 ---
 
 ## Welcome
@@ -37,3 +39,7 @@ Sponsor methods for the time being:
 - Github [Sponser](https://github.com/sponsors/willin)
 - Alipay/Wechat [QR Code](https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png)
 - [Paypal](https://www.paypal.com/paypalme/willinwang)
+
+In the future, we will also provide some other domain names or other public welfare services, such as `log.lu`.
+
+
