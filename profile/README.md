@@ -24,9 +24,9 @@
 
 ## Welcome
 
-Here's an opensource community. We provide free sub domain and email services. In the feture, we may set up a foundation to use our rewards received to help more open source projects.
+Js-cool is an open-source community. We provide free subdomain and email services. In the future, we may set up a foundation to use our rewards received to help more open-source projects.
 
-Our homepage [js.cool](https://js.cool) is planned to introduce application process, display statistical infos and recommend excellent sub domains.
+Our homepage [js.cool](https://js.cool) is planned to introduce application process, display statistical info and recommend excellent subdomains.
 
 Main sources of expenses in the early stage:
 
@@ -36,10 +36,8 @@ Main sources of expenses in the early stage:
 
 Sponsor methods for the time being:
 
-- Github [Sponser](https://github.com/sponsors/willin)
+- Github [Sponsor](https://github.com/sponsors/willin)
 - Alipay/Wechat [QR Code](https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png)
 - [Paypal](https://www.paypal.com/paypalme/willinwang)
 
 In the future, we will also provide some other domain names or other public welfare services, such as `log.lu`.
-
-
