@@ -24,7 +24,7 @@
 
 ## Welcome
 
-js-cool is an open-source community. We provide free subdomain and email services. In the future, we may set up a foundation to use our rewards received to help more open-source projects.
+Js-cool is an open-source community. We provide free subdomain and email services. In the future, we may set up a foundation to use our rewards received to help more open-source projects.
 
 Our homepage [js.cool](https://js.cool) is planned to introduce application process, display statistical info and recommend excellent subdomains.
 
